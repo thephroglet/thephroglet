@@ -9,7 +9,7 @@ A backend developer who builds with Java, delivers APIs that behave, and explain
 ### About Me:
 
 - **Backend Developer** experienced with Java, Spring Boot, and RESTful APIs.
-- Living in San Diego 🇺🇸, working globally.
+- Living in Pensacola, FL, working globally.
 - Gaming, and exploring global cultures are my favorite escapes.
 - Passionate about helping others, I occasionally tutor students and guide them through their coding projects.
 - Currently deepening my knowledge of cloud systems and backend architecture.
